@@ -52,43 +52,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   material: {fileID: 2100000, guid: 630d140580a513040b4888b1b5fffd29, type: 2}
-  sprites:
-  - name: scene_2_startbutton
-    outer:
-      serializedVersion: 2
-      x: 1081
-      y: 1781
-      width: 800
-      height: 267
-    inner:
-      serializedVersion: 2
-      x: 1081
-      y: 1781
-      width: 800
-      height: 267
-    rotated: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0.007490637
-    paddingBottom: 0.02247191
-  - name: Scene_2_GameStart_Background
-    outer:
-      serializedVersion: 2
-      x: 0
-      y: 128
-      width: 1080
-      height: 1920
-    inner:
-      serializedVersion: 2
-      x: 0
-      y: 128
-      width: 1080
-      height: 1920
-    rotated: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
+  sprites: []
   mCoordinates: 0
   mPixelSize: 1
   mReplacement: {fileID: 0}
