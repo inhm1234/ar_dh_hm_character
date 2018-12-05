@@ -6,8 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/01.Scenes/ar_dh_hm_introScene.unity
+    path: Assets/01.Scenes/S_1_Intro.unity
   - enabled: 1
-    path: Assets/01.Scenes/Scene_2_GameStart.unity
+    path: Assets/01.Scenes/S_2_GameStart.unity
   - enabled: 1
-    path: Assets/01.Scenes/mainScene.unity
+    path: Assets/01.Scenes/S_3_Gallery.unity
+  - enabled: 1
+    path: Assets/01.Scenes/s_4_makePerson.unity
+  - enabled: 1
+    path: Assets/01.Scenes/s_4_1_DetailPerson.unity
