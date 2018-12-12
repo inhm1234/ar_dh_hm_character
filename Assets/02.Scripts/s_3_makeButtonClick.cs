@@ -27,11 +27,7 @@ public class s_3_makeButtonClick : MonoBehaviour {
     {
         yield return new WaitForSeconds(0);
 
-        NextSceneCall();
+        GameManager.Instance.ChangeScene("S_4_makePerson");
     }
 
-    void NextSceneCall()
-    {
-        SceneManager.LoadScene("S_4_makePerson");
-    }
 }

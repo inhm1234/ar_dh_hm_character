@@ -26,11 +26,6 @@ public class s_4_backButtonClick : MonoBehaviour {
     {
         yield return new WaitForSeconds(0);
 
-        NextSceneCall();
-    }
-
-    void NextSceneCall()
-    {
-        SceneManager.LoadScene("S_3_Gallery");
+        GameManager.Instance.ChangeScene("S_3_Gallery");
     }
 }

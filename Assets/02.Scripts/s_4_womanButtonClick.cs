@@ -25,11 +25,6 @@ public class s_4_womanButtonClick : MonoBehaviour {
     {
         yield return new WaitForSeconds(0);
 
-        NextSceneCall();
-    }
-
-    void NextSceneCall()
-    {
-        SceneManager.LoadScene("S_4_1_DetailPerson");
+        GameManager.Instance.ChangeScene("S_4_1_DetailPerson");
     }
 }

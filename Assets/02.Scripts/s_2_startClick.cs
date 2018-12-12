@@ -30,11 +30,6 @@ public class s_2_startClick : MonoBehaviour {
         TweenAlpha.Begin(m_Fade.gameObject, m_fDuration, 1f);
         yield return new WaitForSeconds(m_fDuration);
 
-        NextSceneCall();
-    }
-
-    void NextSceneCall()
-    {
-        SceneManager.LoadScene("S_3_Gallery");
+        GameManager.Instance.ChangeScene("S_3_Gallery");
     }
 }

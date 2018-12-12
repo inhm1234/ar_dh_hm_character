@@ -21,11 +21,6 @@ public class IntroClick : MonoBehaviour {
         TweenAlpha.Begin(m_Fade.gameObject,m_fDuration, 1f);
         yield return new WaitForSeconds(m_fDuration);
 
-        NextSceneCall();
-    }
-
-    void NextSceneCall()
-    {
-        SceneManager.LoadScene("S_2_GameStart");
+        GameManager.Instance.ChangeScene("S_2_GameStart");
     }
 }
