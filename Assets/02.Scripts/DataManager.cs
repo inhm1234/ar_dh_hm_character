@@ -55,6 +55,7 @@ public class DataManager : MonoBehaviour {
     {
         Debug.Log("SavePlayerInfo");
         playerInfoList.Add(new PlayerInfo(1, 2, 3, 4));
+        Debug.Log(playerInfoList);
 
         JsonData infoJson = JsonMapper.ToJson(playerInfoList);
 
