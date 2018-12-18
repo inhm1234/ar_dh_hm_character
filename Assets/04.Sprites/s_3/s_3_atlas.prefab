@@ -53,24 +53,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   material: {fileID: 2100000, guid: e6dcd8f021b11b24bbed9c6bfb1620a8, type: 2}
   sprites:
-  - name: s_3_gallery
-    outer:
-      serializedVersion: 2
-      x: 721
-      y: 1248
-      width: 454
-      height: 800
-    inner:
-      serializedVersion: 2
-      x: 721
-      y: 1248
-      width: 454
-      height: 800
-    rotated: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
   - name: s_3_menubg
     outer:
       serializedVersion: 2
@@ -128,13 +110,13 @@ MonoBehaviour:
   - name: s_3_makeButton
     outer:
       serializedVersion: 2
-      x: 1176
+      x: 721
       y: 1748
       width: 299
       height: 300
     inner:
       serializedVersion: 2
-      x: 1176
+      x: 721
       y: 1748
       width: 299
       height: 300
