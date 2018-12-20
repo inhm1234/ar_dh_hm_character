@@ -9,30 +9,30 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1000010959053054}
+  m_RootGameObject: {fileID: 1000012846570826}
   m_IsPrefabParent: 1
---- !u!1 &1000010959053054
+--- !u!1 &1000012846570826
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 4
   m_Component:
-  - 4: {fileID: 4000013888658644}
-  - 114: {fileID: 114000010196316430}
+  - 4: {fileID: 4000013043250882}
+  - 114: {fileID: 114000010535789458}
   m_Layer: 0
-  m_Name: s_3_atlas
+  m_Name: s_2_atlas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4000013888658644
+--- !u!4 &4000013043250882
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1000010959053054}
+  m_GameObject: {fileID: 1000012846570826}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -40,68 +40,50 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
---- !u!114 &114000010196316430
+--- !u!114 &114000010535789458
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1000010959053054}
+  m_GameObject: {fileID: 1000012846570826}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  material: {fileID: 2100000, guid: e6dcd8f021b11b24bbed9c6bfb1620a8, type: 2}
+  material: {fileID: 2100000, guid: d62afbcb68910994e80f57458d39df76, type: 2}
   sprites:
-  - name: s_3_makeButton
+  - name: scene_2_startbutton
     outer:
       serializedVersion: 2
       x: 1081
-      y: 1748
-      width: 299
-      height: 300
+      y: 1781
+      width: 800
+      height: 267
     inner:
       serializedVersion: 2
       x: 1081
-      y: 1748
-      width: 299
-      height: 300
-    rotated: 0
-    paddingLeft: 0
-    paddingRight: 0.0033444816
-    paddingTop: 0
-    paddingBottom: 0
-  - name: s_3_gallery
-    outer:
-      serializedVersion: 2
-      x: 0
-      y: 128
-      width: 1080
-      height: 1920
-    inner:
-      serializedVersion: 2
-      x: 0
-      y: 128
-      width: 1080
-      height: 1920
+      y: 1781
+      width: 800
+      height: 267
     rotated: 0
     paddingLeft: 0
     paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: s_3_menuButton
+    paddingTop: 0.007490637
+    paddingBottom: 0.02247191
+  - name: Scene_2_GameStart_Background
     outer:
       serializedVersion: 2
       x: 0
-      y: 77
-      width: 49
-      height: 50
+      y: 128
+      width: 1080
+      height: 1920
     inner:
       serializedVersion: 2
       x: 0
-      y: 77
-      width: 49
-      height: 50
+      y: 128
+      width: 1080
+      height: 1920
     rotated: 0
     paddingLeft: 0
     paddingRight: 0

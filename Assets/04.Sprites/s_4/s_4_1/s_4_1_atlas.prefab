@@ -62,10 +62,10 @@ MonoBehaviour:
       height: 1920
     inner:
       serializedVersion: 2
-      x: 0
-      y: 128
-      width: 1080
-      height: 1920
+      x: 2
+      y: 130
+      width: 1076
+      height: 1916
     rotated: 0
     paddingLeft: 0
     paddingRight: 0
@@ -128,13 +128,13 @@ MonoBehaviour:
   - name: s_4_1_randomButton
     outer:
       serializedVersion: 2
-      x: 1451
+      x: 1903
       y: 1904
       width: 104
       height: 144
     inner:
       serializedVersion: 2
-      x: 1451
+      x: 1903
       y: 1904
       width: 104
       height: 144
@@ -174,6 +174,258 @@ MonoBehaviour:
       y: 23
       width: 104
       height: 104
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uCF54"
+    outer:
+      serializedVersion: 2
+      x: 519
+      y: 81
+      width: 47
+      height: 46
+    inner:
+      serializedVersion: 2
+      x: 519
+      y: 81
+      width: 47
+      height: 46
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uADC0"
+    outer:
+      serializedVersion: 2
+      x: 662
+      y: 35
+      width: 45
+      height: 45
+    inner:
+      serializedVersion: 2
+      x: 662
+      y: 35
+      width: 45
+      height: 45
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uB208\uC379"
+    outer:
+      serializedVersion: 2
+      x: 567
+      y: 82
+      width: 47
+      height: 45
+    inner:
+      serializedVersion: 2
+      x: 567
+      y: 82
+      width: 47
+      height: 45
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uC5BC\uAD74"
+    outer:
+      serializedVersion: 2
+      x: 519
+      y: 34
+      width: 47
+      height: 46
+    inner:
+      serializedVersion: 2
+      x: 519
+      y: 34
+      width: 47
+      height: 46
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uB4B7\uBA38\uB9AC"
+    outer:
+      serializedVersion: 2
+      x: 471
+      y: 79
+      width: 47
+      height: 48
+    inner:
+      serializedVersion: 2
+      x: 471
+      y: 79
+      width: 47
+      height: 48
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uC55E\uBA38\uB9AC"
+    outer:
+      serializedVersion: 2
+      x: 471
+      y: 31
+      width: 47
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 471
+      y: 31
+      width: 47
+      height: 47
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uBCFC\uD130\uCE58"
+    outer:
+      serializedVersion: 2
+      x: 615
+      y: 36
+      width: 46
+      height: 45
+    inner:
+      serializedVersion: 2
+      x: 615
+      y: 36
+      width: 46
+      height: 45
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uC785"
+    outer:
+      serializedVersion: 2
+      x: 662
+      y: 81
+      width: 45
+      height: 46
+    inner:
+      serializedVersion: 2
+      x: 662
+      y: 81
+      width: 45
+      height: 46
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uB208"
+    outer:
+      serializedVersion: 2
+      x: 708
+      y: 83
+      width: 46
+      height: 44
+    inner:
+      serializedVersion: 2
+      x: 708
+      y: 83
+      width: 46
+      height: 44
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uBC11\uBD80\uBD84"
+    outer:
+      serializedVersion: 2
+      x: 1451
+      y: 1858
+      width: 451
+      height: 190
+    inner:
+      serializedVersion: 2
+      x: 1451
+      y: 1858
+      width: 451
+      height: 190
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uD558\uC758"
+    outer:
+      serializedVersion: 2
+      x: 567
+      y: 35
+      width: 45
+      height: 46
+    inner:
+      serializedVersion: 2
+      x: 567
+      y: 35
+      width: 45
+      height: 46
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uC804\uC2E0\uBCF5"
+    outer:
+      serializedVersion: 2
+      x: 422
+      y: 27
+      width: 46
+      height: 50
+    inner:
+      serializedVersion: 2
+      x: 422
+      y: 27
+      width: 46
+      height: 50
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uC0C1\uC758"
+    outer:
+      serializedVersion: 2
+      x: 422
+      y: 78
+      width: 48
+      height: 49
+    inner:
+      serializedVersion: 2
+      x: 422
+      y: 78
+      width: 48
+      height: 49
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "s_4_1_\uC545\uC138\uC11C\uB9AC"
+    outer:
+      serializedVersion: 2
+      x: 615
+      y: 82
+      width: 46
+      height: 45
+    inner:
+      serializedVersion: 2
+      x: 615
+      y: 82
+      width: 46
+      height: 45
     rotated: 0
     paddingLeft: 0
     paddingRight: 0

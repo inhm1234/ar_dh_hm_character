@@ -135,7 +135,7 @@ MonoBehaviour:
   mColor: {r: 1, g: 1, b: 1, a: 1}
   mPivot: 4
   mDepth: 1
-  mAtlas: {fileID: 114000013846268624, guid: b5c35224f1b397b4983efe48deccdb21, type: 2}
+  mAtlas: {fileID: 114000010535789458, guid: 179d40d6590d3bf4b9b262eb3143137c, type: 2}
   mSpriteName: scene_2_startbutton
   mFillCenter: 1
   mType: 0
@@ -487,7 +487,7 @@ MonoBehaviour:
   mColor: {r: 1, g: 1, b: 1, a: 1}
   mPivot: 4
   mDepth: 0
-  mAtlas: {fileID: 114000013846268624, guid: b5c35224f1b397b4983efe48deccdb21, type: 2}
+  mAtlas: {fileID: 114000010535789458, guid: 179d40d6590d3bf4b9b262eb3143137c, type: 2}
   mSpriteName: Scene_2_GameStart_Background
   mFillCenter: 1
   mType: 0
